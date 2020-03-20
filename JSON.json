@@ -1,0 +1,51 @@
+{
+   "Farm_name": " Ma premiere ferme ",
+    "Animal_list" : [
+      {
+          "type" : "vache",
+          "age" : "2",
+          "sex" : "male",
+          "adult age" : "1",
+          "retirement age" : "3"
+      },
+      {
+          "type" : "poule",
+          "age" : "1",
+          "sex" : "male",
+          "adult age" : "1",
+          "retirement age" : "3"
+      },
+      { 
+          "type" : "chien",
+          "age" : "2",
+          "sex" : "femelle",
+          "adult age" : "1",
+          "retirement age" : "3"
+      }
+   ],
+ 
+  "Farm_name[2]": " Ma deuxième ferme ",
+      "Animal_list[2]" : [
+      {
+          "type" : "vache",
+          "age" : "1",
+          "sex" : "femelle",
+          "adult age" : "1",
+          "retirement age" : "3"
+      },
+      {
+          "type" : "poule",
+          "age" : "2",
+          "sex" : "femelle",
+          "adult age" : "1",
+          "retirement age" : "3"
+      },
+      { 
+          "type" : "chien",
+          "age" : "1",
+          "sex" : "male",
+          "adult age" : "1",
+          "retirement age" : "3"
+      }
+   ]
+}
